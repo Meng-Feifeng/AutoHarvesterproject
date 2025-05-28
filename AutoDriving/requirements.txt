@@ -1,0 +1,9 @@
+numpy
+scipy
+matplotlib
+pyserial
+python-can
+pyqt5
+pyproj
+pandas
+openpyxl
